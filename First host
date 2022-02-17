@@ -1,0 +1,22 @@
+# first_host
+this is my first GitHub hosting page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first_host</title>
+</head>
+<body>
+    <h1>
+        <b>
+            hello...
+        </b>
+        <t>
+            I am BIPIN. 
+            This is m first gitHub host
+        </t>
+    </h1>
+</body>
+</html>
